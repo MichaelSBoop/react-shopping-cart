@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "name": "chair",
+        "price": 15.99,
+        "imgUrl": "/imgs/chair.jpg",
+        "group": "furniture"
+    },
+    {
+        "id": 2,
+        "name": "couch",
+        "price": 74.99,
+        "imgUrl": "/imgs/couch.jpg",
+        "group": "furniture"
+    },
+    {
+        "id": 3,
+        "name": "lamp",
+        "price": 9.99,
+        "imgUrl": "/imgs/lamp.jpg",
+        "group": "furniture"
+    },
+    {
+        "id": 4,
+        "name": "table",
+        "price": 55.99,
+        "imgUrl": "/imgs/table.jpg",
+        "group": "furniture"
+    }
+    ,
+    {
+        "id": 5,
+        "name": "toaster",
+        "price": 4.99,
+        "imgUrl": "/imgs/toaster.jpg",
+        "group": "electronics"
+    }
+    ,
+    {
+        "id": 6,
+        "name": "laptop",
+        "price": 109.99,
+        "imgUrl": "/imgs/laptop.jpg",
+        "group": "electronics"
+    }
+    ,
+    {
+        "id": 7,
+        "name": "fridge",
+        "price": 399.99,
+        "imgUrl": "/imgs/fridge.jpg",
+        "group": "electronics"
+    },
+    {
+        "id": 8,
+        "name": "pot",
+        "price": 5.99,
+        "imgUrl": "/imgs/pot.jpg",
+        "group": "cookware"
+    },
+    {
+        "id": 9,
+        "name": "pan",
+        "price": 6.99,
+        "imgUrl": "/imgs/pan.jpg",
+        "group": "cookware"
+    }
+]
