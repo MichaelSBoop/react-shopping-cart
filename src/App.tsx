@@ -9,6 +9,7 @@ import { Cookware } from "./pages/Cookware";
 import { Electronics } from "./pages/Electronics";
 import { Furniture } from "./pages/Furniture";
 import { General } from "./pages/General";
+import { Newsletter } from "./components/Newsletter";
 
 function App() {
   return (
@@ -26,7 +27,9 @@ function App() {
           </Route>
           <Route path="about" element={<About />} />
         </Routes>
+        <Newsletter />
       </Container>
+      {/* <Footer /> */}
     </ShoppingCartProvider>
   );
 }
